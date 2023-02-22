@@ -1,14 +1,14 @@
 import React from "react";
-import Navbar from "../components/Navbar";
+import { Link } from "react-router-dom";
 
 const Home = () => {
 	return (
-		<div className="relative overflow-hidden bg-dark">
+		<div className="relative overflow-hidden text-gray-400 bg-gray-800">
 			<div className="pt-16 pb-80 sm:pt-24 sm:pb-40 lg:pt-40 lg:pb-48">
 				<div className="relative mx-auto max-w-7xl px-4 sm:static sm:px-6 lg:px-8">
 					<div className="sm:max-w-lg">
-						<h1 className="font text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
-							Summer styles are finally here
+						<h1 className="font text-4xl font-bold tracking-tight text-gray-200 sm:text-6xl">
+							Basant Vihar Colony is finally here
 						</h1>
 						<p className="mt-4 text-xl text-gray-500">
 							This year, our new summer collection will shelter
@@ -83,12 +83,12 @@ const Home = () => {
 								</div>
 							</div>
 
-							<a
-								href="#"
+							<Link
+								to="/"
 								className="inline-block rounded-md border border-transparent bg-indigo-600 py-3 px-8 text-center font-medium text-white hover:bg-indigo-700"
 							>
 								Shop Collection
-							</a>
+							</Link>
 						</div>
 					</div>
 				</div>
