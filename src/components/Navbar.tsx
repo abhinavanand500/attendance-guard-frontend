@@ -33,7 +33,7 @@ export default function Navbar() {
 	const { isLoggedIn } = user;
 	return (
 		<>
-			<div className="min-h-full">
+			<div className="min-h-full sticky top-0 z-30 w-full">
 				<Disclosure as="nav" className="bg-gray-800">
 					{({ open }) => (
 						<>
