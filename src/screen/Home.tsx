@@ -8,7 +8,7 @@ const Home = () => {
 				<div className="relative mx-auto max-w-7xl px-4 sm:static sm:px-6 lg:px-8">
 					<div className="sm:max-w-lg">
 						<h1 className="font text-4xl font-bold tracking-tight text-gray-200 sm:text-6xl">
-							Basant Vihar Colony is finally here
+							Basant Vihar Colony is finally LIVE!!
 						</h1>
 						<p className="mt-4 text-xl text-gray-500">
 							This year, our new summer collection will shelter
@@ -27,37 +27,14 @@ const Home = () => {
 										<div className="grid flex-shrink-0 grid-cols-1 gap-y-6 lg:gap-y-8">
 											<div className="h-64 w-44 overflow-hidden rounded-lg sm:opacity-0 lg:opacity-100">
 												<img
-													src="https://tailwindui.com/img/ecommerce-images/home-page-03-hero-image-tile-01.jpg"
+													src="https://pbs.twimg.com/media/DiHysSEX0AAhxZz.jpg"
 													alt=""
 													className="h-full w-full object-cover object-center"
 												/>
 											</div>
 											<div className="h-64 w-44 overflow-hidden rounded-lg">
 												<img
-													src="https://tailwindui.com/img/ecommerce-images/home-page-03-hero-image-tile-02.jpg"
-													alt=""
-													className="h-full w-full object-cover object-center"
-												/>
-											</div>
-										</div>
-										<div className="grid flex-shrink-0 grid-cols-1 gap-y-6 lg:gap-y-8">
-											<div className="h-64 w-44 overflow-hidden rounded-lg">
-												<img
-													src="https://tailwindui.com/img/ecommerce-images/home-page-03-hero-image-tile-03.jpg"
-													alt=""
-													className="h-full w-full object-cover object-center"
-												/>
-											</div>
-											<div className="h-64 w-44 overflow-hidden rounded-lg">
-												<img
-													src="https://tailwindui.com/img/ecommerce-images/home-page-03-hero-image-tile-04.jpg"
-													alt=""
-													className="h-full w-full object-cover object-center"
-												/>
-											</div>
-											<div className="h-64 w-44 overflow-hidden rounded-lg">
-												<img
-													src="https://tailwindui.com/img/ecommerce-images/home-page-03-hero-image-tile-05.jpg"
+													src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/5e/c0/46/drone-shot-of-the-valley.jpg?w=500&h=400&s=1"
 													alt=""
 													className="h-full w-full object-cover object-center"
 												/>
@@ -66,14 +43,37 @@ const Home = () => {
 										<div className="grid flex-shrink-0 grid-cols-1 gap-y-6 lg:gap-y-8">
 											<div className="h-64 w-44 overflow-hidden rounded-lg">
 												<img
-													src="https://tailwindui.com/img/ecommerce-images/home-page-03-hero-image-tile-06.jpg"
+													src="https://i.pinimg.com/736x/87/45/ec/8745ec2a4c6694ba3005ec89347d3c1c.jpg"
 													alt=""
 													className="h-full w-full object-cover object-center"
 												/>
 											</div>
 											<div className="h-64 w-44 overflow-hidden rounded-lg">
 												<img
-													src="https://tailwindui.com/img/ecommerce-images/home-page-03-hero-image-tile-07.jpg"
+													src="https://pbs.twimg.com/media/EYcI1plXQAELNkn.jpg"
+													alt=""
+													className="h-full w-full object-cover object-center"
+												/>
+											</div>
+											<div className="h-64 w-44 overflow-hidden rounded-lg">
+												<img
+													src="https://pbs.twimg.com/media/E7EVMp7XsAoo5IQ.jpg:large"
+													alt=""
+													className="h-full w-full object-cover object-center"
+												/>
+											</div>
+										</div>
+										<div className="grid flex-shrink-0 grid-cols-1 gap-y-6 lg:gap-y-8">
+											<div className="h-64 w-44 overflow-hidden rounded-lg">
+												<img
+													src="https://www.jagranimages.com/images/newimg/25062022/Deori%20Temple%20Ranchi%20(1).jpg"
+													alt=""
+													className="h-full w-full object-cover object-center"
+												/>
+											</div>
+											<div className="h-64 w-44 overflow-hidden rounded-lg">
+												<img
+													src="https://images.hindustantimes.com/img/2023/01/31/550x309/dhoni-getty-2016_1675185205457_1675185211549_1675185211549.jpg"
 													alt=""
 													className="h-full w-full object-cover object-center"
 												/>
