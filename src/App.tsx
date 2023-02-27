@@ -9,6 +9,7 @@ import Team from "./screen/Team";
 import Guard from "./screen/Guard";
 import Contact from "./screen/Contact";
 import Footer from "./components/Footer";
+import Signup from "./screen/Signup";
 
 function App() {
 	const user = useAppSelector((state) => state.user);
@@ -23,6 +24,7 @@ function App() {
 				<Route path="/team" element={<Team />} />
 				<Route path="/guard" element={<Guard />} />
 				<Route path="/contact" element={<Contact />} />
+				<Route path="/signup" element={<Signup />} />
 			</Routes>
 			<Footer />
 		</BrowserRouter>
